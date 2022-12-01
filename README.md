@@ -1,4 +1,4 @@
-- 🔭 Currently working on: a website for [my band](https://7thstreetbigband.bandcamp.com/)
+- 🔭 Currently working on: a website for myself, and a website for [my band](https://7thstreetbigband.bandcamp.com/)
 - 🌱 Currently learning: React
 - 📫 You can reach me at: nichole.j.boaz@gmail.com
 - 😄 Pronouns: she/her
