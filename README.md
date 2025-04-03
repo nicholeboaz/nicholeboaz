@@ -1,6 +1,6 @@
-- 🔭 Currently working on: a website for myself, and a website for [my band](https://7thstreetbigband.bandcamp.com/)
-- 🌱 Currently learning: React
-- 📫 You can reach me at: nichole.j.boaz@gmail.com
+- 🔭 Recent projects: a website for [myself](https://www.nicholeboaz.com/), and a placeholder website for [my band](https://7thstreetbigband.bandcamp.com/)
+- 🌱 Currently learning: SQL and R
+- 📫 You can reach me at: nichole.j.boaz@pm.me
 - 😄 Pronouns: she/her
 
 [![@jazznichole's Holopin board](https://holopin.me/jazznichole)](https://holopin.io/@jazznichole)
