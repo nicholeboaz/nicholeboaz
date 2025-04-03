@@ -1,4 +1,4 @@
-- 🔭 Recent projects: a website for [myself](https://www.nicholeboaz.com/), and a placeholder website for [my band](https://7thstreetbigband.bandcamp.com/)
+- 🔭 Recent projects: a website for [myself](https://www.nicholeboaz.com/), and a placeholder website for [my band](https://7thstreetbigband.com/)
 - 🌱 Currently learning: SQL and R
 - 📫 You can reach me at: nichole.j.boaz@pm.me
 - 😄 Pronouns: she/her
